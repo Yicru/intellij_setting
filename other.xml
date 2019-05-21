@@ -1,0 +1,13 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="11.3.0" last-modified="1544503274000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.anyenv/envs/ndenv/shims/node">
+      <version-cache version="10.4.1" last-modified="1544588258000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeModulesEnvTerminalCustomizer">
+    <option name="myAddNodeModulesBin" value="false" />
+  </component>
+</application>
