@@ -3,14 +3,14 @@
     <property name="created">2019-05-21T15:59:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-21T16:56:42</property>
+    <property name="modified">2019-05-23T15:29:51</property>
     <property name="originalScheme">Spacegray</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
     <option name="CARET_COLOR" value="c0c5ce" />
     <option name="CARET_ROW_COLOR" value="353c47" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1c1f26" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="232830" />
     <option name="DELETED_LINES_COLOR" value="bf616a" />
     <option name="GUTTER_BACKGROUND" value="2b303b" />
     <option name="INDENT_GUIDE" value="3b464d" />
