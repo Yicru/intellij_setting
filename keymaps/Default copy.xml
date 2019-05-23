@@ -4,6 +4,12 @@
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift meta alt f" />
   </action>
@@ -13,6 +19,9 @@
   <action id="IntroduceParameter" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="meta alt p" />
