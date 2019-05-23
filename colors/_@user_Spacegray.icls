@@ -3,20 +3,17 @@
     <property name="created">2019-05-21T15:59:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-23T15:29:51</property>
+    <property name="modified">2019-05-23T15:52:59</property>
     <property name="originalScheme">Spacegray</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="a3be8c" />
     <option name="CARET_COLOR" value="c0c5ce" />
     <option name="CARET_ROW_COLOR" value="353c47" />
     <option name="CONSOLE_BACKGROUND_KEY" value="232830" />
-    <option name="DELETED_LINES_COLOR" value="bf616a" />
     <option name="GUTTER_BACKGROUND" value="2b303b" />
     <option name="INDENT_GUIDE" value="3b464d" />
     <option name="LINE_NUMBERS_COLOR" value="737a86" />
     <option name="METHOD_SEPARATORS_COLOR" value="353c47" />
-    <option name="MODIFIED_LINES_COLOR" value="4f5b66" />
     <option name="SELECTED_INDENT_GUIDE" value="65737e" />
     <option name="SELECTION_BACKGROUND" value="4f5b66" />
     <option name="TEARLINE_COLOR" value="868686" />
@@ -27,7 +24,6 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="2b303b" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="232830" />
     <option name="WHITESPACES" value="65737e" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="343d46" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
