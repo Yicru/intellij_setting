@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="_modal" type="DTD" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern=".gitkeep" type="Native" />
+      <mapping pattern="TEST" type="PLAIN_TEXT" />
+      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="Iceberg Contrast.icls" type="PLAIN_TEXT" />
-      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
