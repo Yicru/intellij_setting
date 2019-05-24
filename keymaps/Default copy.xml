@@ -3,28 +3,45 @@
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift meta alt f" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
   </action>
+  <action id="GuiDesigner.ExpandSelection" />
   <action id="IntroduceParameter" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
   <action id="Vcs.UpdateProject" />
 </keymap>
