@@ -12,6 +12,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <removed_mapping pattern="_wysiwyg.scss" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
