@@ -6,26 +6,24 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern=".gitkeep" type="Native" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern="TEST" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="Iceberg Contrast.icls" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping pattern="_wysiwyg.scss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
