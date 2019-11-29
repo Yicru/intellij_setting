@@ -1,15 +1,10 @@
 <scheme name="Yicru" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-11-22T09:46:16</property>
-    <property name="description">My color scheme, based on Spacegray, Dracura</property>
+    <property name="created">2019-11-28T17:33:54</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-11-28T17:35:42</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2019-11-29T09:22:16</property>
     <property name="originalScheme">Yicru</property>
-    <property name="vendorMail">yu1ro.mya@gmail.com</property>
-    <property name="vendorName">Yuichiro Miyamae</property>
-    <property name="vendorUrl">https://github.com/Yicru/MyJetbrainsTheme</property>
-    <property name="version">0.3</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="355237" />
