@@ -34,6 +34,10 @@
           <option name="url" value="http://bitriverjp.backlog.com" />
           <option name="userName" value="yu1ro.mya@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="yicru" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
