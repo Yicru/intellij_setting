@@ -24,6 +24,9 @@
     <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" useJBChromeExtension="true" />
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
