@@ -38,6 +38,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="yicru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.tsuqrea.co.jp" />
+          <option name="userName" value="uemoto@ju-net.jp" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
