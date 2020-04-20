@@ -13,6 +13,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="NotificationScreen" type="PLAIN_TEXT" />
       <mapping pattern="images" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
