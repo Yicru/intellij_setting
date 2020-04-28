@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="font" type="CSS" />
       <mapping pattern="_modal" type="DTD" />
+      <mapping pattern="build-phase" type="JavaScript" />
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern="_document" type="JavaScript" />
       <mapping pattern=".gitkeep" type="Native" />
