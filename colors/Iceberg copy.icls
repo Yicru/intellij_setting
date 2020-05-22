@@ -3,7 +3,7 @@
     <property name="created">2017-07-12T11:24:27</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2020-05-22T13:51:31</property>
+    <property name="modified">2020-05-22T16:32:11</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <colors>
@@ -30,8 +30,8 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3a4750" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="d57d7a" />
@@ -519,8 +519,8 @@
         <option name="BACKGROUND" value="2f344b" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JAVA_KEYWORD" baseAttributes="" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="91b6c0" />
