@@ -6,6 +6,8 @@
       <mapping pattern="build-phase" type="JavaScript" />
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern="_document" type="JavaScript" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="Native" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="TEST" type="PLAIN_TEXT" />
