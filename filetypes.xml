@@ -19,6 +19,7 @@
       <mapping pattern="NotificationScreen" type="PLAIN_TEXT" />
       <mapping pattern="images" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
