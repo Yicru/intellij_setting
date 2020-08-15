@@ -22,6 +22,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
