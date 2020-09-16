@@ -3,7 +3,7 @@
     <property name="created">2019-05-21T15:59:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-09-16T08:42:06</property>
+    <property name="modified">2020-09-16T11:27:28</property>
     <property name="originalScheme">Spacegray</property>
   </metaInfo>
   <colors>
@@ -36,7 +36,7 @@
         <option name="FOREGROUND" value="bf616a" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
@@ -171,13 +171,13 @@
         <option name="FOREGROUND" value="96b5b4" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="" />
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3b514d" />
