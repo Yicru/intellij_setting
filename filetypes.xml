@@ -37,6 +37,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern="_wysiwyg.scss" approved="true" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <mapping pattern=".gitignore_global" type="Git file" />
