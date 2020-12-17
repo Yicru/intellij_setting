@@ -1,6 +1,10 @@
 <application>
   <component name="CodeStream">
+    <option name="avatars" value="false" />
     <option name="firstRun" value="false" />
+    <option name="showFeedbackSmiley" value="false" />
+    <option name="showMarkers" value="false" />
+    <option name="showNewCodemarkGutterIconOnHover" value="false" />
     <option name="team" value="" />
   </component>
 </application>
