@@ -4,7 +4,6 @@
       <mapping pattern="search_move_in_date_type.js" type="AUTO_DETECTED" />
       <mapping pattern="font" type="CSS" />
       <mapping pattern="_modal" type="DTD" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern="build-phase" type="JavaScript" />
       <mapping pattern="_document" type="JavaScript" />
@@ -20,8 +19,8 @@
       <mapping pattern="Iceberg Contrast.icls" type="PLAIN_TEXT" />
       <mapping pattern="AreaCollapse" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern=".textlintrc" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
