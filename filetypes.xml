@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="search_move_in_date_type.js" type="AUTO_DETECTED" />
       <mapping pattern="font" type="CSS" />
       <mapping pattern="_modal" type="DTD" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern="build-phase" type="JavaScript" />
       <mapping pattern="_document" type="JavaScript" />
