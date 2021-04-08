@@ -20,6 +20,7 @@
       <mapping pattern="Iceberg Contrast.icls" type="PLAIN_TEXT" />
       <mapping pattern="AreaCollapse" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
