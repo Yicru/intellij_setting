@@ -5,9 +5,11 @@
       <mapping pattern="search_move_in_date_type.js" type="AUTO_DETECTED" />
       <mapping pattern="font" type="CSS" />
       <mapping pattern="_modal" type="DTD" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern="build-phase" type="JavaScript" />
       <mapping pattern="_document" type="JavaScript" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="Native" />
@@ -34,6 +36,7 @@
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="SignUpScreen" type="TypeScript" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
