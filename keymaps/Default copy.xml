@@ -67,6 +67,7 @@
   <action id="RestoreDefaultLayout" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="SmartSearchAction" />
   <action id="SmartSelect" />
   <action id="SmartTypeCompletion" />
   <action id="TableResult.GrowSelection" />
