@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="401" />
+    <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="注意事項" />
+      <item value="ギフトラッピング" />
+      <item value="概要" />
       <item value="自由入力" />
       <item value="賃料" />
       <item value="application Count" />
