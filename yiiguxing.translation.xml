@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="401" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="一律" />
+      <item value="いち" />
       <item value="未提案" />
       <item value="みてい" />
       <item value="注意事項" />
@@ -16,6 +18,6 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619319511290" />
+    <option name="lastTrimTime" value="1620134128823" />
   </component>
 </application>
