@@ -5,6 +5,7 @@
       <mapping pattern="VideoMeetingScheduleSection" type="AUTO_DETECTED" />
       <mapping pattern="font" type="CSS" />
       <mapping pattern="_modal" type="DTD" />
+      <mapping ext="env" type="Env File" />
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern="_document" type="JavaScript" />
       <mapping pattern="build-phase" type="JavaScript" />
@@ -41,6 +42,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
