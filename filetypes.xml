@@ -8,6 +8,9 @@
       <mapping pattern="role" type="JavaScript" />
       <mapping pattern="build-phase" type="JavaScript" />
       <mapping pattern="_document" type="JavaScript" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="Native" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
@@ -45,10 +48,7 @@
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping pattern="_wysiwyg.scss" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="liquid" type="Twig" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
