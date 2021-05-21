@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="401" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="全国一律" />
+      <item value="全国&#9;一律" />
       <item value="一律" />
       <item value="いち" />
       <item value="未提案" />
@@ -18,6 +20,6 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620134128823" />
+    <option name="lastTrimTime" value="1621566795364" />
   </component>
 </application>
