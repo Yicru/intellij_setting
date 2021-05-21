@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="401" />
-    <option name="newTranslationDialogY" value="485" />
+    <option name="newTranslationDialogX" value="580" />
+    <option name="newTranslationDialogY" value="492" />
     <histories>
+      <item value="クール便" />
+      <item value="クール便&#10;" />
       <item value="全国一律" />
       <item value="全国&#9;一律" />
       <item value="一律" />
