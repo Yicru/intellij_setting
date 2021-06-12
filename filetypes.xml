@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="search_move_in_date_type.js" type="AUTO_DETECTED" />
       <mapping pattern="VideoMeetingScheduleSection" type="AUTO_DETECTED" />
+      <mapping pattern="ui" type="AUTO_DETECTED" />
       <mapping pattern="ProductVariationOptionsCreatableSelect" type="AUTO_DETECTED" />
       <mapping pattern="font" type="CSS" />
       <mapping pattern="_modal" type="DTD" />
