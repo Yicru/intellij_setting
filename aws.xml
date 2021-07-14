@@ -9,13 +9,13 @@
           <option name="autoResolved" value="true" />
           <option name="executablePath" value="/usr/local/bin/sam" />
           <option name="id" value="samCli" />
-          <option name="lastKnownFileTime" value="1625560739196" />
+          <option name="lastKnownFileTime" value="1626225660655" />
         </ExecutableState>
         <ExecutableState>
           <option name="autoResolved" value="true" />
           <option name="executablePath" value="/usr/local/bin/aws" />
           <option name="id" value="awsCli" />
-          <option name="lastKnownFileTime" value="1625560306170" />
+          <option name="lastKnownFileTime" value="1626225592680" />
         </ExecutableState>
       </list>
     </option>
